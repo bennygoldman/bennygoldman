@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Benny Goldman. A freshly-certified, Toronto-based, full-stack Web Developer. I'm pursuing my professional dreams after a career in Advertising.
+Hi, I'm Benny Goldman. I'm a Toronto-based, full-stack Web Developer.
 
 I'm creative at heart. I love collaborating to divise great ideas, solve complex challenges, and make things that bring people joy.
 
@@ -10,7 +10,7 @@ Get in touch on [GitHub](https://www.github.com/bennygoldman), [LinkedIn](https:
 
 - **ExtraExtra**: a way to get around the social media news blackout in Canada
 - **TPL Passport**: a tool to track visits to all 100 branches of the Toronto Public Library
-- **TTC Late Note**: get proof to show your delay was public transit's fault
+- **TTC Late Note**: get the proof you need to blame your delay on public transit ;)
 
 ### Past projects
 - [**Fansite**](https://bennygoldman.github.io/fansite/): a responsive website with API-driven commenting features     [_repo_](../../../fansite)
@@ -23,8 +23,8 @@ Get in touch on [GitHub](https://www.github.com/bennygoldman), [LinkedIn](https:
 
 - 👨🏻‍💻  I finished a Software Engineering bootcamp at [BrainStation](https://www.brainstation.io) in 2023.
 - 🎓  I have a BA from Indiana University (hoo, hoo, hoo)
-- 🇺🇸  I'm from the USofA, Detroit to be exact 
-- 🇨🇦  Before moving north in 2022, I lived in 🗽NYC, 🌉San Fran, and 🚘Los Angeles🚘
+- 🇺🇸  I'm from the USofA (Detroit if you're curious)
+- 🇨🇦  Before moving north in 2022, I lived in 🗽NYC, San🌉Fran, and 🚘Los Angeles🚘
 - ⭕️  I've seen Phish in concert 79 times
 - 🚲  I love to bike around Toronto
 - 🌡️  I'll never understand celcius
