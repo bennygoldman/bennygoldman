@@ -15,6 +15,11 @@ Get in touch on [GitHub](https://www.github.com/bennygoldman), [LinkedIn](https:
 ### Past projects
 - [**Fansite**](../../../fansite): a responsive website with API-driven commenting features
 
+  #### As Digital Producer
+- [**Quest for Comfort**](https://bit.ly/AllbirdsGame): mobile game for Allbirds
+- [**Bite-Sized Sites**](https://bit.ly/BelvitaMorningWinGames): collection of 15+ games with dynamic elements generated from Twitter data
+- [**Twitter Marketing Platform**](https://bit.ly/TwitterMarketingPlatform): UI templates and component library for CMS
+
 ### Toolkit (the list is always growing...)
 
 ![React](https://img.shields.io/badge/react-%23430098.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%23316192.svg?style=for-the-badge&logo=mongodb&logoColor=white)
