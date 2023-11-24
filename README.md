@@ -2,7 +2,7 @@
 
 Hi, I'm Benny Goldman. I'm a Toronto-based, full-stack Web Developer.
 
-I'm creative at heart. I love collaborating to divise great ideas, solve complex challenges, and make things that bring people joy.
+I'm creative at heart. I love collaborating to spark great ideas, solve complex challenges, and make things that bring people joy.
 
 Get in touch on [GitHub](https://www.github.com/bennygoldman), [LinkedIn](https://www.linkedin.com/in/bennygoldman), or send me an [email](mailto:goldmanb@gmail.com).
 
