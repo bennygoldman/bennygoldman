@@ -28,8 +28,8 @@ Get in touch on [GitHub](https://www.github.com/bennygoldman), [LinkedIn](https:
 
 - 👨🏻‍💻  I finished a Software Engineering bootcamp at [BrainStation](https://www.brainstation.io) in 2023.
 - 🎓  I have a BA from Indiana University (hoo, hoo, hoo)
-- 🇺🇸  I'm from the USofA (Detroit if you're curious)
-- 🇨🇦  Before moving north in 2022, I lived in 🗽NYC, San🌉Fran, and 🚘Los Angeles🚘
+- 🇺🇸  I've lived in 🎵Detroit, NYC🗽, San🌉Fran, and 🚘Los Angeles🚘 
+- 🇨🇦  Before moving north in 2022, I lived in 
 - ⭕️  I've seen Phish in concert 79 times
 - 🚲  I love to bike around Toronto
 - 🌡️  I'll never understand celcius
