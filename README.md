@@ -8,7 +8,7 @@ Get in touch on [GitHub](https://www.github.com/bennygoldman), [LinkedIn](https:
 
 ### Current projects
 
-- **ExtraExtra**: a way to get around the social media news blackout in Canada
+- [**ExtraExtra**](https://extraextranews.ca/): a way to get around the social media news blackout in Canada
 - **TPL Passport**: a tool to track visits to all 100 branches of the Toronto Public Library
 - **TTC Late Note**: get the proof you need to blame your delay on public transit ;)
 
