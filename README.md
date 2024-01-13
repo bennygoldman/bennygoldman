@@ -26,11 +26,9 @@ Get in touch on [GitHub](https://www.github.com/bennygoldman), [LinkedIn](https:
 
 ### Fun facts
 
-- 👨🏻‍💻  I finished a Software Engineering bootcamp at [BrainStation](https://www.brainstation.io) in 2023.
-- 🎓  I have a BA from Indiana University (hoo, hoo, hoo)
-- 🇺🇸  I've lived in 🎵Detroit, NYC🗽, San🌉Fran, and 🚘Los Angeles🚘 
-- 🚲  I love to bike around Toronto
-- 🌡️  I'll never understand celcius
-- 🌎  I'm a graduate of the [Earthship Academy](https://earthship.com/)
+- 🚲  I love to bike around Toronto.
 - 🪵  I enjoy wood-working in my spare time
 - ⭕️  I've seen Phish in concert 79 times
+- 🌡️  I'll never understand celsius
+- 🇺🇸  I've also lived in 🎵Detroit, NYC🗽, San🌉Fran, and 🚘Los Angeles🚘 
+- 🎓  I'm a graduate of Indiana University, [BrainStation](https://www.brainstation.io), and the [Earthship Academy](https://earthship.com/)
