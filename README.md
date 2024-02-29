@@ -6,11 +6,14 @@ I'm creative at heart. I love collaborating to spark great ideas, solve complex 
 
 Get in touch on [GitHub](https://www.github.com/bennygoldman), [LinkedIn](https://www.linkedin.com/in/bennygoldman), or send me an [email](mailto:goldmanb@gmail.com).
 
-### Current projects
+### Active projects
 
 - [**ExtraExtra**](https://extraextranews.ca/): a way to get around the social media news blackout in Canada
 - **TPL Passport**: a tool to track visits to all 100 branches of the Toronto Public Library
 - **TTC Late Note**: get the proof you need to blame your delay on public transit ;)
+
+### Open Source 
+- [**Bikespace**](https://github.com/bikespace/bikespace): This app allows cyclists in Toronto to report issues with bicycle parking or areas where bicycle parking is needed.
 
 ### Past projects
 - [**Fansite**](../../../fansite): a responsive website with API-driven commenting features
