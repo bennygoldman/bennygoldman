@@ -1,4 +1,4 @@
-## Hi, I'm Ben(ny) Goldman. 
+## Hi, I'm Benny Goldman. 
 
 I'm a Toronto-based, full-stack Web + Mobile Developer. I love to make things that bring people joy.
 
