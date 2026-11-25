@@ -3,10 +3,10 @@
 I'm a Toronto-based, full-stack Web + Mobile Developer. I love to make things that bring people joy.
 
 ### Web Dev
+- [**TPL Passport**](https://librarypassport.ca): a tool to track visits across every branch of the Toronto Public Library
+- [**TTC Late Note**](https://latenote.to/): get the proof you need to blame your delay on public transit ;)
 - [**Put It In A Stealie**](https://putitinastealie.org): The place to go when you want to put something in a Stealie ⚡💀⚡
-- [**TPL Passport**](https://tpl-passport.vercel.app): a tool to track visits to all 100 branches of the Toronto Public Library
 - [**ExtraExtra**](https://extraextranews.ca/): a way to get around the social media news blackout in Canada
-- **TTC Late Note**: get the proof you need to blame your delay on public transit ;)
 
 ### Personal Projects
 - [**Great North Special**](https://pods.link/greatnorthspecial): I host a show on TMU's community radio station. I play lots of Grateful Dead.
